@@ -2,7 +2,7 @@
 
 This project was developed to training about HTML5, CSS3 and JavaScriptcreating on course "Recriando o famoso jogo do dinossauro sem internet" from "Digital Innovation One" plataform.
 
-To see this project working access the URL "https://peopleapi-springboot.herokuapp.com/api/v1/people".
+To see this project working access the URL "https://cruzesqueisso.github.io/dino-game/index.html".
 
 ## Controls
 
